@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, PHP, Python, Jquery, My SQL
 - - ⚡ Fun fact: Coding, Coffee
 - 📫 How to reach me: https://www.facebook.com/Md.Nur9211/
-- <--
-- 😄 Pronouns: ...
-- -->
+- 😄 Pronouns: Manik
