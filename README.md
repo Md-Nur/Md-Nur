@@ -32,7 +32,6 @@
 <a href="https://stackoverflow.com/users/13151007/md-nur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13151007/md-nur" height="30" width="40" /></a>
 <a href="https://fb.com/md.nur9211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="md.nur9211" height="30" width="40" /></a>
 <a href="https://instagram.com/md_nur_e_alam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="md_nur_e_alam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uc4dlelcwnnwxotj4kq7ezpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/uc4dlelcwnnwxotj4kq7ezpg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mdnurealamsiddiquee2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="mdnurealamsiddiquee2004" height="30" width="40" /></a>
 <a href="https://discord.gg/Nur#1450" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Nur#1450" height="30" width="40" /></a>
 </p>
