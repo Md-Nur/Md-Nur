@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Md. Nur E Alam Siddiquee</h1>
-<h3 align="center">A machine learning engineer from Bangladesh</h3>
+<h3 align="center">A web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nur&label=Profile%20views&color=0e75b6&style=flat" alt="md-nur" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdnur9211" target="blank"><img src="https://img.shields.io/twitter/follow/mdnur9211?logo=twitter&style=for-the-badge" alt="mdnur9211" /></a> </p>
 
-- 🔭 I’m currently working on [Saif Academy](http://saifacademy.rf.gd/)
+- 🔭 I’m currently working on [RUHSC](https://www.ruhsc.org/)
 
-- 🌱 I’m currently learning **Nural Network (Tensorflow)**
+- 🌱 I’m currently learning **NEXT.js**
 
 - 👯 I’m looking to collaborate on [Python](https://github.com/Md-Nur/Learn-Python)
 
